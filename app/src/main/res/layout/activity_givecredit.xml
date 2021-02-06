@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#DAD39D"
+    tools:context=".givecredit">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GIVE CREDIT"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="50dp"
+        android:layout_marginTop="80dp"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Amount"
+        android:textSize="30dp"
+android:inputType="number"
+        android:layout_marginTop="80dp"
+        android:layout_marginRight="20dp"
+        android:padding="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/creamount_et1"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Give Credit"
+        android:textSize="40dp"
+
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="20dp"
+        android:padding="10dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/give_bt" />
+</LinearLayout>
