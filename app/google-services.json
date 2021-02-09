@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "788508223066",
-    "firebase_url": "https://mera-khaata.firebaseio.com",
-    "project_id": "mera-khaata",
-    "storage_bucket": "mera-khaata.appspot.com"
+    "firebase_url": "https://MyOkCredit.firebaseio.com",
+    "project_id": "MyOkCredit",
+    "storage_bucket": "MyOkCredit.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:788508223066:android:57e599b75d6555d3519a63",
         "android_client_info": {
-          "package_name": "com.example.merakhaata"
+          "package_name": "com.example.MyOkCredit"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "788508223066-gugo197700a8fmfs9pcfr9tvaldejre3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.merakhaata",
+            "package_name": "com.example.MyOkCredit",
             "certificate_hash": "0f277e5085fa4c893d72771b324f546d588429d2"
           }
         },

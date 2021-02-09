@@ -1,4 +1,4 @@
-package com.example.merakhaata;
+package com.example.MyOkCredit;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.merakhaata", appContext.getPackageName());
+        assertEquals("com.example.MyOkCredit", appContext.getPackageName());
     }
 }

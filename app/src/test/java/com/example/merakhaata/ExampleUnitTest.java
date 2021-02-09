@@ -1,4 +1,4 @@
-package com.example.merakhaata;
+package com.example.MyOkCredit;
 
 import org.junit.Test;
 

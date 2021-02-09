@@ -1,4 +1,4 @@
-package com.example.merakhaata;
+package com.example.MyOkCredit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
